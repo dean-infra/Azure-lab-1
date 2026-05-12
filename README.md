@@ -10,7 +10,6 @@ In this project I:
 - Deployed a Ubuntu Linux VM
 - Configured Network Security Group (NSG) rules
 - Connected to the VM using SSH
-- Troubleshot connectivity issues
 
 ---
 
